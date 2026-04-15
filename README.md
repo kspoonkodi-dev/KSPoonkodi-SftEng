@@ -36,7 +36,7 @@
 
 ## 📄 Resume
 
-👉 Download My Resume: https://github.com/kspoonkodi-dev/KSPoonkodi-SftEng/blob/main/Poongodi_Java_Backend_Developer_Resume.pdf
+👉 [Download My Resume]( https://github.com/kspoonkodi-dev/KSPoonkodi-SftEng/blob/main/Poongodi_Java_Backend_Developer_Resume.pdf)
 
 ---
 
