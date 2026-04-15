@@ -30,13 +30,13 @@
 - Implemented **user registration, course management, and tutorials**
 - Followed **MVC architecture & REST API design**
 
-👉[Project Link](https://github.com/kspoonkodi-dev/springboot-angular-project.git)
+👉Project Link: https://github.com/kspoonkodi-dev/springboot-angular-project.git
 
 ---
 
 ## 📄 Resume
 
-👉 [Download My Resume](https://github.com/kspoonkodi-dev/KSPoonkodi-SftEng/blob/main/Poongodi_Java_Backend_Developer_Resume.pdf)
+👉 Download My Resume: https://github.com/kspoonkodi-dev/KSPoonkodi-SftEng/blob/main/Poongodi_Java_Backend_Developer_Resume.pdf
 
 ---
 
