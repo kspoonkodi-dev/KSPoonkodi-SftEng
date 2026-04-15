@@ -43,7 +43,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: k.s.poonkodi@gmail.com  
-- 💻 [GitHub](https://github.com/kspoonkodi-dev)
+- 💻 GitHub: https://github.com/kspoonkodi-dev
 
 ---
 
