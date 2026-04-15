@@ -1,6 +1,6 @@
 # 👩‍💻 Poongodi Kannaiyan
 
-### Java Backend Developer | Spring Boot | REST APIs | 6+ Years Experience
+### Java Backend Developer | Spring Boot | REST APIs | Angular  |  6+ Years Experience
 
 ---
 
@@ -55,4 +55,4 @@
 
 ---
 
-⭐ *Open to Java Backend Developer opportunities*
+⭐ *Open to Java Backend / Full Stack Developer opportunities | Spring Boot | REST APIs | Angular opportunities*
